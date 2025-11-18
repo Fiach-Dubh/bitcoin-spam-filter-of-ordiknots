@@ -1,4 +1,4 @@
-# Bitcoin Spam Filter - Anit-ordiknots
+# Bitcoin Spam Filter - Anti-ordiknots
 
 A scriptable Bitcoin mempool policy filter designed to detect and block UTXO spam patterns, specifically targeting data embedding techniques like those documented in the [taproot-wizards/ordiknots](https://github.com/taproot-wizards/ordiknots) repository.
 
